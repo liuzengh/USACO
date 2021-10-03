@@ -2,8 +2,21 @@
 
 USACO: USA Computing Olympiad. 
 
-[USACO Guide](https://usaco.guide/)
+## Guide
 
-[USACO](http://www.usaco.org/)
+### Basic Complete Search
 
-[UVa Online Judge](https://onlinejudge.org/)
+### Complete Search with Recursion
+
+#### Subsets
+
+#### Permutations
+
+#### Backtracking
+
+
+## References
+
+1. [USACO Guide](https://usaco.guide/)
+2. [USACO](http://www.usaco.org/)
+3. [UVa Online Judge](https://onlinejudge.org/)
